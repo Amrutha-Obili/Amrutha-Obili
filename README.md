@@ -1,19 +1,12 @@
 ### Hi there 👋
-
-<!--
-**Amrutha-Obili/Amrutha-Obili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently pursuing B.tech in Computer Science Engineering
 - 🌱 I’m currently learning data and analysis.
 - 👯 I’m looking to collaborate on interesting projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
+- 💬 Ask me about Tech
+- 📫 How to reach me:https://www.linkedin.com/in/amrutha-obili-7095901b1/
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: 
--->
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/1024px-Kotlin-logo.svg.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
