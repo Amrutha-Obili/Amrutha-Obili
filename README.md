@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Amrutha Obili 🙋‍♀️
+## Hi there 👋 I'm Amrutha Obili 🙋‍♀️
 Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing B.tech in Computer Science Engineering
