@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Amrutha Obili 🙋‍♀️
 Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing B.tech in Computer Science Engineering
@@ -19,3 +19,17 @@ Here are some ideas to get you started:
 <img src="https://github.com/Swetha126/Swetha126/blob/main/Picture2.png" alt="GC" height="40" style="vertical-align:top; margin:4px">
 
 </p>
+## 🏆 My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Amrutha-Obili&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Amrutha-Obili&hide=php&theme=radical)
+-->
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Amrutha-Obili&count_private=true&show_icons=true&theme=radical">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Amrutha-Obili&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Amrutha-Obili&hide=php&theme=radical">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Amrutha-Obili&hide=php&theme=radical" />
+</a>
+</div>
