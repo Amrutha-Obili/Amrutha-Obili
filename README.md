@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/Swetha126/Swetha126/blob/main/Picture3.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/Picture2.png" alt="GC" height="40" style="vertical-align:top; margin:4px">
 
-</p>
 ## 🏆 My Github Stats:
 
 <!--
@@ -33,3 +32,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Amrutha-Obili&hide=php&theme=radical" />
 </a>
 </div>
+</p>
