@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Amrutha Obili 🙋‍♀️
-Here are some ideas to get you started:
 
+- 
 - 🔭 I’m currently pursuing B.tech in Computer Science Engineering
 - 🌱 I’m currently learning data and analysis.
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about Tech
-- 📫 How to reach me:https://www.linkedin.com/in/amrutha-obili-7095901b1/
+- 📫 How to reach me: https://www.linkedin.com/in/amrutha-obili-7095901b1/
 - 😄 Pronouns: She/her
 ## 🧰 Languages and Tools:
 <p align="center">
