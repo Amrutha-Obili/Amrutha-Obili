@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Amrutha Obili 🙋‍♀️
 
-- 
+- Microsoft Learn Student Ambassador
 - 🔭 I’m currently pursuing B.tech in Computer Science Engineering
 - 🌱 I’m currently learning data and analysis.
 - 👯 I’m looking to collaborate on interesting projects.
