@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Amrutha Obili 🙋‍♀️
 
 - Beta Microsoft Learn Student Ambassador
-- 🔭 I’m currently pursuing B.tech in Computer Science Engineering with specialization in Internet of Things.
-- 🌱 I’m currently learning data and analysis.
+- 🔭 I’m currently pursuing MBA DT from NMIMS Mumbai and I have completed my B.tech in Computer Science Engineering with specialization in Internet of Things.
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about Tech
 - 📫 How to reach me: https://www.linkedin.com/in/amrutha-obili-7095901b1/
